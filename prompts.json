@@ -1,7 +1,77 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-06T02:12:08.284Z",
+  "updatedAt": "2026-01-06T15:29:41.700Z",
   "items": [
+    {
+      "id": "p_aoxptdmk2qwmro",
+      "title": "Beach",
+      "prompt": "Create a golden-hour, cinematic full-body vertical portrait of a melancholy young man standing on a rugged rocky boulder at the edge of the beach, quietly gazing toward the crashing ocean waves.\n\nHe is styled in a V-neck, color-block oversized sweater layered over a light yellow shirt, paired with baggy, distressed jeans and classic Converse sneakers, giving the look a relaxed yet emotionally expressive silhouette.\n\nThe scene is lit entirely with natural golden-hour light, casting warm highlights and soft shadows across the subject and landscape. The focus is sharp on the subject, with a cinematic bokeh effect softening the background. Birds glide through the sky above, waves crash below, and the air feels alive with motion.\n\nApply warm, cinematic color grading to enhance the emotional tone and coastal atmosphere. The overall mood should feel reflective, poetic, and cinematic—balancing solitude and scale—while maintaining 100% accurate facial features and likeness from the reference image.",
+      "category": "",
+      "imageId": "img_1767713380486_42ad38b3",
+      "active": true,
+      "createdAt": "2026-01-06T15:29:41.700Z",
+      "updatedAt": "2026-01-06T15:29:41.700Z"
+    },
+    {
+      "id": "p_unq5q4mk2quqt6",
+      "title": "Face",
+      "prompt": "Use the provided face reference image to ensure precise facial features and likeness.\n\nStyle the subject in a fitted black turtleneck layered under a dark tailored blazer, finished with sleek round eyeglasses for a modern, intellectual edge. No additional props—keep the focus on a sharp profile, clean lines, and the way light reflects across the face and frames.\n\nSet the backdrop as a bold, vibrant orange wall sliced by deep, diagonal shadows, creating striking color-field geometry and graphic contrast.\n\nPose the subject looking upward toward the light source, chin slightly raised, with a thoughtful, introspective expression that feels confident and composed.\n\nLight the scene with harsh, direct sunlight that casts a strong, directional beam, producing crisp, angular shadow patterns across the background and subtly across the subject, reinforcing a dramatic, editorial aesthetic.\n\nThe overall mood should feel minimal, architectural, and fashion-forward—clean composition, strong contrast, and gallery-level visual impact.",
+      "category": "",
+      "imageId": "img_1767713292683_d3d4c263",
+      "active": true,
+      "createdAt": "2026-01-06T15:28:13.626Z",
+      "updatedAt": "2026-01-06T15:28:13.626Z"
+    },
+    {
+      "id": "p_95xt7amk2qsonk",
+      "title": "books",
+      "prompt": "Create a striking fine–art black-and-white photograph of a handsome young man with dark features, captured in a moment of intense creative release. His head is tilted back, eyes lifted or closed, conveying deep thought, inspiration, or near-ecstasy. His hands are open and relaxed, as if surrendering to the flow of ideas.\n\nHe is dressed in a loose, white collared shirt that contrasts sharply against the dark environment. The setting is a dimly lit study, dense with atmosphere—stacks of books piled high, scattered papers suspended midair, as if caught in motion around him.\n\nThe image is shot using a slow shutter speed, creating dramatic horizontal motion blur that streaks across the background and softly distorts the edges of his figure, amplifying the sense of movement and mental intensity. Despite the motion, the subject remains powerfully present and ultra-realistic.\n\nThe overall aesthetic is cinematic and surreal yet grounded in realism—high contrast, rich textures, and fine-art depth—evoking the raw energy of creativity captured in a single, timeless frame.",
+      "category": "c_gn71lpmjs4tnmh",
+      "imageId": "img_1767713196172_99430f56",
+      "active": true,
+      "createdAt": "2026-01-06T15:26:37.519Z",
+      "updatedAt": "2026-01-06T15:26:37.519Z"
+    },
+    {
+      "id": "p_1x135amk2qr1pm",
+      "title": "park",
+      "prompt": "Create a cinematic, high-fashion editorial photograph of the uploaded person, using the reference image to maintain exact facial features and likeness.\n\nThe scene takes place in a peaceful park on a bright, sunny day. The subject is seated on a lush, vibrant green lawn, relaxed and grounded in the environment. He is wearing an oversized black t-shirt paired with loose, baggy khaki cargo pants, giving the look a modern, effortless editorial feel.\n\nAccessories are minimal and refined: a single, slim silver chain around the neck and a bracelet on one wrist. He is gazing off to the side with a calm, introspective expression, not directly at the camera.\n\nBeside him rests a black backpack, with blue headphones casually placed on top. A book lies nearby, with a sunflower gently set on its cover, adding a soft, poetic touch to the composition.\n\nThe lighting is natural and warm, enhancing skin tones and creating a serene, aesthetic mood. Capture the image in ultra–high-resolution 4K detail with a subtle grainy film texture, evoking a stylish, cinematic editorial look. The overall vibe should feel peaceful, thoughtful, and fashion-forward, with the face matching the reference image 100% accurately.",
+      "category": "c_gn71lpmjs4tnmh",
+      "imageId": "img_1767713119021_ae9541c0",
+      "active": true,
+      "createdAt": "2026-01-06T15:25:21.130Z",
+      "updatedAt": "2026-01-06T15:25:21.130Z"
+    },
+    {
+      "id": "p_g45z0emk2qok7t",
+      "title": "beach",
+      "prompt": "Create a moody beachside portrait at dusk, captured as if someone snapped the photo using a direct camera flash. The surrounding environment is dark and atmospheric, while the flash highlights my face with a warm, sun-kissed glow—skin appearing slightly luminous with a soft, natural shimmer.\n\nIn the background, the sun is 98% set, leaving behind a dramatic deep purple-to-red sky that fades into near darkness, creating a cinematic twilight beach mood.\n\nThe image is taken from behind my back as I turn my head and upper body toward the camera, creating a candid over-the-shoulder moment. I’m wearing a loose, light-yellow linen shirt that is fully buttoned and intact, with sleeves casually rolled up. A subtle gold seashell necklace rests above the fabric, adding a refined coastal detail.\n\nMy hair is windswept with relaxed surfer energy. The photo is cropped from just above the waist, keeping the focus on the upper body, expression, and glowing beach aesthetic. The overall feel is intimate, natural, and coastal—flash photography contrasting against a dark, sunset-lit shoreline.",
+      "category": "c_gn71lpmjs4tnmh",
+      "imageId": "img_1767713001365_bb6616c2",
+      "active": true,
+      "createdAt": "2026-01-06T15:23:25.145Z",
+      "updatedAt": "2026-01-06T15:23:25.145Z"
+    },
+    {
+      "id": "p_f52xhgmk2qjggj",
+      "title": "Poster",
+      "prompt": "Use a vibrant setting such as a painted street-art wall or a clean, high-saturation backdrop in turquoise, hot pink, or bright yellow to create an energetic urban feel.\n\nDress the subject in relaxed streetwear—think a denim jacket paired with sneakers and casual layers—to emphasize a modern, city-inspired vibe.\n\nAdd playful, graffiti-style doodles that stay tight to the subject’s outline, wrapping around the head, shoulders, arms, and torso. Include hand-drawn elements like stars, thick arrows, paint drips, lightning bolts, and quirky abstract shapes to create motion and personality.\n\nPosition all typography close to the subject, floating near the face and body rather than in open background areas, so each word feels directly connected to their movement and attitude. Use chunky comic- or graffiti-inspired lettering with black outlines and bold, high-contrast colors.\n\nReplace the text with:\n\nFUN\n\n\n\nWILD\n\n\n\nHUSTLE\n\n\n\nMOVE\n\n\n\nSHINE\n\nThe overall look should feel bold, youthful, and expressive—high-energy street art aesthetics with clean composition, where doodles and text amplify the subject without overpowering them.",
+      "category": "",
+      "imageId": "img_1767712765091_fc195e6d",
+      "active": true,
+      "createdAt": "2026-01-06T15:19:26.994Z",
+      "updatedAt": "2026-01-06T15:19:26.994Z"
+    },
+    {
+      "id": "p_zah5cumk2ob9w9",
+      "title": "Poster",
+      "prompt": "Set the background to a minimal, high-impact gradient—either sunset orange fading into soft pink or aqua blending into electric yellow—to create strong contrast while keeping the focus on the subject.\n\nStyle the subject in a clean, solid neutral outfit (black, white, or denim) so the graphic elements remain bold and clearly readable.\n\nPlace all typography clustered tightly around the subject—hovering near the head, shoulders, torso, and arms—so each word feels personally connected rather than floating in empty space. Integrate bold pop-art–inspired doodles with hand-drawn comic lines, halftone dots, energetic shapes, and expressive brush strokes that wrap around the figure’s silhouette.\n\nUse contrasting accent colors (red, teal, yellow, purple) that harmonize with the gradient background while keeping visual balance.\n\nReplace all text with:\n\nDRIVE\n\n\n\nCREATE\n\n\n\nSTRONG\n\n\n\nBRAVE\n\n\n\nRISE\n\nTypography should feel playful yet powerful, using handwritten comic-style lettering enclosed in speech bubbles, bursts, zig-zags, and bold arrows that point toward or interact with the subject’s body and pose. The overall vibe should be modern, clean, and uplifting, with the doodles enhancing the subject’s energy without overwhelming the image.",
+      "category": "",
+      "imageId": "img_1767709020725_51d757b5",
+      "active": true,
+      "createdAt": "2026-01-06T14:17:06.006Z",
+      "updatedAt": "2026-01-06T14:17:06.006Z"
+    },
     {
       "id": "p_dlghsymk1yeyu4",
       "title": "Car",
