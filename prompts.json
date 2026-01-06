@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-06T02:04:51.230Z",
+  "updatedAt": "2026-01-06T02:12:08.284Z",
   "items": [
+    {
+      "id": "p_dlghsymk1yeyu4",
+      "title": "Car",
+      "prompt": "Place me sitting casually on the bonnet of a red Porsche Cayenne, with vast mountains stretching into the distance and a dramatic sunset glowing behind them. I’m dressed in a relaxed yet stylish travel outfit, blending comfort with understated luxury. The scene should resemble a high-end DSLR travel photograph, featuring natural light, warm sunset hues, soft shadows, and a cinematic depth of field that captures a sense of freedom, exploration, and refined adventure.",
+      "category": "c_gn71lpmjs4tnmh",
+      "imageId": "img_1767665526608_88618a35",
+      "active": true,
+      "createdAt": "2026-01-06T02:12:08.284Z",
+      "updatedAt": "2026-01-06T02:12:08.284Z"
+    },
+    {
+      "id": "p_l2mybimk1ybg7z",
+      "title": "Car",
+      "prompt": "A highly realistic, full-body portrait of the man from the reference image, set against a sleek black Mercedes-Benz AMG parked on a modern city street lined with towering glass skyscrapers. He is dressed in a dark navy tailored suit paired with a crisp white dress shirt and polished black leather Oxford shoes, embodying elegance and understated luxury.\n\nHis pose is confident yet effortless, with his back and shoulder lightly resting against the car and his arms relaxed, projecting a sense of quiet power and ownership of the moment. The overall atmosphere is cinematic and luxurious, captured in ultra-realistic detail, with natural daylight reflecting off the car’s glossy black surface and the surrounding glass architecture, enhancing the high-end, business-elite aesthetic.",
+      "category": "c_gn71lpmjs4tnmh",
+      "imageId": "img_1767665359067_d25c17f3",
+      "active": true,
+      "createdAt": "2026-01-06T02:09:24.191Z",
+      "updatedAt": "2026-01-06T02:09:24.191Z"
+    },
     {
       "id": "p_coi0aimk1y5llq",
       "title": "Saree",
