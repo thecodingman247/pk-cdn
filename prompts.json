@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-04T10:33:42.675Z",
+  "updatedAt": "2026-01-06T02:04:51.230Z",
   "items": [
+    {
+      "id": "p_coi0aimk1y5llq",
+      "title": "Saree",
+      "prompt": "Create a retro, vintage-inspired image with a grainy yet luminous finish. The girl is draped in a flawless plain purple saree, paired with a black sleeveless blouse, styled in a Pinterest-aesthetic, old-school elegance. The vibe captures the essence of a 90s movie “baddie” — dark brown, silky hair flowing naturally, with a small flower tucked visibly into her hair, enhanced by a soft, romantic breeze.\n\nShe stands against an aged wooden door, where deep shadows and dramatic contrasts heighten the mystery and artistic mood, creating an enchanting, cinematic atmosphere. The lighting feels warm and nostalgic, subtly dramatic yet inviting. Her pose is candid and graceful, caught mid-motion as she adjusts her saree, adding a sense of realism, confidence, and timeless charm.",
+      "category": "",
+      "imageId": "img_1767665089413_8abbad49",
+      "active": true,
+      "createdAt": "2026-01-06T02:04:51.230Z",
+      "updatedAt": "2026-01-06T02:04:51.230Z"
+    },
+    {
+      "id": "p_fzyi9nmk1y3aef",
+      "title": "Saree",
+      "prompt": "A minimalist, Pinterest-aesthetic retro look featuring a plain red chiffon saree. The mood channels a 90s movie romance, with dark brown wavy-curly hair and a small flower tucked visibly into her curls, gently romanticizing a breezy, wind-kissed atmosphere. She stands against a solid, slightly textured wall, where deep shadows and high contrast create a sense of drama and mystery. Warm, golden lighting—reminiscent of sunset or golden hour—bathes the scene. Her expression is moody yet serene, quietly happy, and introspective.",
+      "category": "",
+      "imageId": "img_1767664981001_cfeebe2e",
+      "active": true,
+      "createdAt": "2026-01-06T02:03:03.399Z",
+      "updatedAt": "2026-01-06T02:03:03.399Z"
+    },
     {
       "id": "p_bajt9fmjya3d6f",
       "title": "Snow",
