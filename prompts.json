@@ -381,16 +381,6 @@
       "active": true,
       "createdAt": "2026-01-03T10:27:28.247Z",
       "updatedAt": "2026-01-03T10:29:31.499Z"
-    },
-    {
-      "id": "p_8svpgfmjsqrvo6",
-      "title": "Some image",
-      "prompt": "Here goes again",
-      "category": "",
-      "imageId": "img_1767108459528_68f3a0ac",
-      "active": false,
-      "createdAt": "2025-12-30T15:28:18.198Z",
-      "updatedAt": "2026-01-04T10:33:42.675Z"
     }
   ]
 }
