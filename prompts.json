@@ -1,7 +1,127 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-06T17:19:13.383Z",
+  "updatedAt": "2026-01-07T16:50:41.419Z",
   "items": [
+    {
+      "id": "p_icqhzpmk498n7v",
+      "title": "BIke",
+      "prompt": "A stylish young man poses confidently with a custom café racer motorcycle on a road, with lush green trees in the background. He stands full-body, one leg slightly forward, one hand on the handlebar, looking to the right.\n\nHe has short styled black hair, wears black sunglasses, a black denim jacket over a black T-shirt, black jogger pants, and white sneakers. The motorcycle is matte grey with a black frame, bold tires, sleek retro design, and the Japanese kanji “YT” clearly visible on the fuel tank. Bright natural daylight, soft shadows, cinematic tone, sharp details, DSLR look, 8K ultra-realistic.",
+      "category": "",
+      "imageId": "img_1767804638851_1e8b375c",
+      "active": true,
+      "createdAt": "2026-01-07T16:50:41.419Z",
+      "updatedAt": "2026-01-07T16:50:41.419Z"
+    },
+    {
+      "id": "p_6x0ke9mk496akw",
+      "title": "Law angle",
+      "prompt": "A cinematic ultrawide, low-angle shot of a young man leaning against a tall, weathered concrete gate. He wears a white open rolled-sleeve cargo shirt and black baggy cargo pants.\n\nWet ground with reflections, lush green branches, and barbed wire above. A misty forest pathway in the background creates a dreamy, moody, rainy atmosphere.",
+      "category": "",
+      "imageId": "img_1767804530174_6cf97b7a",
+      "active": true,
+      "createdAt": "2026-01-07T16:48:51.728Z",
+      "updatedAt": "2026-01-07T16:48:51.728Z"
+    },
+    {
+      "id": "p_tpj1t5mk48zsls",
+      "title": "train",
+      "prompt": "Create a hyper-realistic cinematic travel portrait of a stylish young Indian man (use reference face, slim build, height 5'11\") leaning out of a colorful heritage train with his girlfriend. She wears a kurti and enjoys the moment while leaning out beside him.\n\nHe wears a shirt over a white T-shirt, beige cargo pants, and stylish sunglasses, with arms stretched playfully and a confident smile. Preserve the facial features of both the man and woman. The mood feels joyful, cinematic, and travel-inspired.",
+      "category": "",
+      "imageId": "img_1767804226831_8fbb75a8",
+      "active": true,
+      "createdAt": "2026-01-07T16:43:48.496Z",
+      "updatedAt": "2026-01-07T16:43:48.496Z"
+    },
+    {
+      "id": "p_403l7zmk48xpi0",
+      "title": "Cafe",
+      "prompt": "Create an ultra-realistic close-up fashion portrait of an Indian woman with a male companion in a cozy café. The background is softly blurred with warm tungsten lights and neon pink reflections.\n\nShe wears an oversized sweatshirt over a layered shirt, beige trousers, messy bun, and subtle makeup. The man wears a brown shirt, black trousers, and black shoes, standing casually. Shallow depth of field, cinematic grain, warm intimate lighting, emphasizing expressive faces.",
+      "category": "",
+      "imageId": "img_1767804127287_beb493aa",
+      "active": true,
+      "createdAt": "2026-01-07T16:42:11.159Z",
+      "updatedAt": "2026-01-07T16:42:11.159Z"
+    },
+    {
+      "id": "p_px25hjmk48v9q8",
+      "title": "",
+      "prompt": "A medium shot portrait of a young man and a young woman standing side-by-side. The man, on the left, has dark hair and a beard, wearing a brown traditional kurta. The woman, on the right, has fair skin, braided hair, and is smiling, wearing a light pink embroidered traditional outfit with a white dupatta. Both subjects have their original faces from the provided input images. They are positioned outdoors on a rooftop or balcony, with a city skyline at sunset in the background. The sky is a warm orange and yellow, with subtle clouds. The overall lighting is natural and warm from the sunset, creating a candid and realistic photograph. The image should have a natural, candid, and realistic feel, resembling a real photograph rather than digital art",
+      "category": "",
+      "imageId": "img_1767804015585_e2962764",
+      "active": true,
+      "createdAt": "2026-01-07T16:40:17.408Z",
+      "updatedAt": "2026-01-07T16:40:17.408Z"
+    },
+    {
+      "id": "p_45pb34mk48tx41",
+      "title": "bride",
+      "prompt": "A bride and groom stand in a sunlit meadow filled with wildflowers. The groom wears a cream linen suit with a pastel tie and boutonnière, while the bride in a lace gown with puff sleeves leans into him, arms gently around his waist.\n\nGolden-hour light, soft focus, painterly pastel tones, creating an ethereal, timeless mood.",
+      "category": "",
+      "imageId": "img_1767803952544_abd0b812",
+      "active": true,
+      "createdAt": "2026-01-07T16:39:14.401Z",
+      "updatedAt": "2026-01-07T16:39:14.401Z"
+    },
+    {
+      "id": "p_soh6vqmk48pi5r",
+      "title": "Girl",
+      "prompt": "Create a high-contrast black-and-white photo in a modern art gallery. A candid, stolen-shot style image of a young woman standing still while a blurred crowd moves around her. The angle is slightly tilted, her face partly turned (not full profile or facing camera).\n\nIt’s a 3/4 body shot (mid-thigh up). She wears a long dark coat, hands in pockets. Behind her, framed Banksy artworks are arranged in a grid.",
+      "category": "",
+      "imageId": "img_1767803744160_479f995f",
+      "active": true,
+      "createdAt": "2026-01-07T16:35:48.398Z",
+      "updatedAt": "2026-01-07T16:35:48.398Z"
+    },
+    {
+      "id": "p_wmce80mk48kpw9",
+      "title": "Girl",
+      "prompt": "Create a hyper-realistic cinematic editorial portrait of the uploaded person (preserve face 100%). She stands tall in a dark, moody studio with soft drifting smoke under a dramatic spotlight.\n\nShe wears an oversized slate-blue luxury suit with wide-leg trousers and a slightly unbuttoned white silk shirt. Both hands in pockets, shoulders relaxed, confident expression, head tilted slightly upward, conveying calm authority.",
+      "category": "",
+      "imageId": "img_1767803518620_85c3372c",
+      "active": true,
+      "createdAt": "2026-01-07T16:32:05.145Z",
+      "updatedAt": "2026-01-07T16:32:05.145Z"
+    },
+    {
+      "id": "p_fvhlyrmk48g7ej",
+      "title": "couple",
+      "prompt": "Create a retro, vintage-style image, grainy yet luminous, of a romantic couple. The woman wears a flowing Pinterest-style saree, with wavy curls and a small flower tucked into her hair. The man stands close beside her in a matching retro shirt, their outfits color-coordinated.\n\nThe woman looks ahead gracefully while the man gazes at her, capturing a 90s movie romance. Warm golden light casts dramatic shadows on a solid wall behind them, while a windy atmosphere adds motion to the saree for a timeless cinematic feel.",
+      "category": "",
+      "imageId": "img_1767803311772_936b16a7",
+      "active": true,
+      "createdAt": "2026-01-07T16:28:34.555Z",
+      "updatedAt": "2026-01-07T16:28:34.555Z"
+    },
+    {
+      "id": "p_uyv8zcmk48aahi",
+      "title": "Couple",
+      "prompt": "Create a retro, vintage-style image, grainy yet bright, based on the reference photo. The woman wears a red retro saree with a Pinterest-style aesthetic, wavy brown hair with a small flower tucked in, flowing in a windy, romantic atmosphere. The man wears a white kurta with a Chinese collar in a retro style.\n\nHe holds her waist, and they look deeply into each other’s eyes. They stand against a solid wall with deep shadows and dramatic contrast, creating a moody, cinematic 90s movie feel.",
+      "category": "",
+      "imageId": "img_1767803036934_5fbe7533",
+      "active": true,
+      "createdAt": "2026-01-07T16:23:58.614Z",
+      "updatedAt": "2026-01-07T16:23:58.614Z"
+    },
+    {
+      "id": "p_7a6farmk483vvy",
+      "title": "Couple",
+      "prompt": "A young couple takes a mirror selfie in a softly lit hallway. Both wear matching oversized white sweatshirts with black text on the sleeves. The girl holds the phone and smiles gently, while the boy stands behind her, arm around her shoulders, chin resting near her head. The scene feels cozy, warm, and affectionate, with a minimalist, pastel-toned background.",
+      "category": "",
+      "imageId": "img_1767802738082_a0970983",
+      "active": true,
+      "createdAt": "2026-01-07T16:18:59.758Z",
+      "updatedAt": "2026-01-07T16:18:59.758Z"
+    },
+    {
+      "id": "p_xj2hvjmk4807sg",
+      "title": "Couple",
+      "prompt": "Create a retro, vintage-style image based on the reference photo, with a grainy but bright 90s film look. The woman wears a purple chiffon saree with a Pinterest-style aesthetic, silky dark-brown hair, and a small flower tucked into her hair. A windy, romantic atmosphere adds motion.\n\nShe stands against a wall with a tree shadow cast across it, creating deep shadows and dramatic contrast. A man in matching clothing stands beside her in a romantic pose. The overall mood feels like a 90s movie still, moody, artistic, and nostalgic.",
+      "category": "",
+      "imageId": "img_1767802566695_6b10a81c",
+      "active": true,
+      "createdAt": "2026-01-07T16:16:08.560Z",
+      "updatedAt": "2026-01-07T16:16:12.700Z"
+    },
     {
       "id": "p_8o5p4imk2uthif",
       "title": "birthday",
