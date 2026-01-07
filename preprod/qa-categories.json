@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-03T12:13:57.316Z",
+  "items": [
+    {
+      "label": "Realistic",
+      "active": true,
+      "id": "c_4lvc58mjy9lbl7",
+      "createdAt": "2026-01-03T12:13:55.819Z",
+      "updatedAt": "2026-01-03T12:13:57.316Z"
+    },
+    {
+      "label": "Portrait",
+      "active": true,
+      "id": "c_3gljromjy8w31x",
+      "createdAt": "2026-01-03T11:54:18.357Z",
+      "updatedAt": "2026-01-03T11:54:19.948Z"
+    },
+    {
+      "label": "Selfie",
+      "active": false,
+      "id": "c_3s419nmjy67mj5",
+      "createdAt": "2026-01-03T10:39:17.969Z",
+      "updatedAt": "2026-01-03T12:07:21.075Z"
+    },
+    {
+      "label": "Cinematic",
+      "active": true,
+      "id": "c_wl0k6omjy5qyqv",
+      "createdAt": "2026-01-03T10:26:20.647Z",
+      "updatedAt": "2026-01-03T10:26:22.362Z"
+    },
+    {
+      "label": "Social Media",
+      "active": false,
+      "id": "c_lbnbbhmjs4ujgo",
+      "createdAt": "2025-12-30T05:14:30.792Z",
+      "updatedAt": "2025-12-30T05:14:30.792Z"
+    },
+    {
+      "label": "Trending",
+      "active": true,
+      "id": "c_gn71lpmjs4tnmh",
+      "createdAt": "2025-12-30T05:13:49.527Z",
+      "updatedAt": "2025-12-30T05:13:51.665Z"
+    }
+  ]
+}
